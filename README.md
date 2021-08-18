@@ -1,5 +1,5 @@
 
-- https://www.spectacleapp.com/
+- https://rectangleapp.com/
 - https://github.com/palmerc/Ukrainian-Russian
 - oh-my-zsh + powerline10k
   - theme
