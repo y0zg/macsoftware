@@ -12,7 +12,7 @@
 - https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
   
 
-- terraform
+- terraform https://www.terraform.io/downloads.html
   - https://github.com/tfutils/tfenv
   - pre-commit https://pre-commit.com/#install
   - brew install checkov
