@@ -1,4 +1,5 @@
 
+- https://iterm2.com/downloads.html
 - https://rectangleapp.com/
 - https://github.com/palmerc/Ukrainian-Russian
 - oh-my-zsh + powerline10k
