@@ -1,4 +1,5 @@
 
+- AppCleaner
 - https://iterm2.com/downloads.html
 - https://rectangleapp.com/
 - https://github.com/palmerc/Ukrainian-Russian
